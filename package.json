@@ -28,7 +28,7 @@
   "dependencies": {
     "de-indent": "^1.0.2",
     "he": "^1.2.0",
-    "vue-loader-legacy": "npm:vue-loader@15.9.2",
+    "vue-loader-legacy": "npm:vue-loader@15.9.2"
   },
   "devDependencies": {
     "vue": "file:../.."
